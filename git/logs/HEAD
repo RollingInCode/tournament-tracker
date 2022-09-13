@@ -1,0 +1,57 @@
+0000000000000000000000000000000000000000 8a0e2c3093808a005d37fc7eb681aa4a11118772 Timothy Corey <me@timothycorey.com> 1483555950 -0500	commit (initial): Initial Commit
+8a0e2c3093808a005d37fc7eb681aa4a11118772 ec3dff51293850a4715ee0f48d95f6910805c77d Timothy Corey <me@timothycorey.com> 1483556001 -0500	commit: After Lesson 6 - Class Library
+ec3dff51293850a4715ee0f48d95f6910805c77d 443d3aa00a61d64d239cd73bc776a25529c4b2dc Timothy Corey <me@timothycorey.com> 1483593030 -0500	commit: Lesson 7 - Form Creation
+443d3aa00a61d64d239cd73bc776a25529c4b2dc ed2d159efd57b9b16f5b75b6ceed512b14188ef2 Timothy Corey <me@timothycorey.com> 1489376379 -0400	commit: Lesson 9 - Prize Form
+ed2d159efd57b9b16f5b75b6ceed512b14188ef2 96946a75fabdbd7c503f3cf83749cbae5e4afb89 Timothy Corey <me@timothycorey.com> 1489868570 -0400	commit: Lesson 10 - SQL Connection
+96946a75fabdbd7c503f3cf83749cbae5e4afb89 3f73cc4b29fc9ea2473ff372ff5a66e9cf32c27d Timothy Corey <me@timothycorey.com> 1489892833 -0400	commit: Lesson 11 - Text Connection
+3f73cc4b29fc9ea2473ff372ff5a66e9cf32c27d 792a57600b5af58bd3d6945e3c97282f4eef9ac9 Timothy Corey <me@timothycorey.com> 1489985141 -0400	commit: Lesson 12 - Create Team Form Part 1
+792a57600b5af58bd3d6945e3c97282f4eef9ac9 7f9f6c7a2241c2cb885f7b8e9b638b1f172bf842 Timothy Corey <me@timothycorey.com> 1490069390 -0400	commit: Lesson 13 - Create Team Form Part 2
+7f9f6c7a2241c2cb885f7b8e9b638b1f172bf842 60a1b365601ec20c767189061e7245bd4f794a40 Timothy Corey <me@timothycorey.com> 1490157885 -0400	commit: Lesson 14 - Create Team Form Part 3
+60a1b365601ec20c767189061e7245bd4f794a40 7ae135b647c0a8eb1ea4990363de6e8c32e17a2f Timothy Corey <me@timothycorey.com> 1490242081 -0400	commit: Lesson 15 - Create Tournament Part 1
+7ae135b647c0a8eb1ea4990363de6e8c32e17a2f d93d6fc92a7d45829b0c31907aeba605367b6aed Timothy Corey <me@timothycorey.com> 1490245877 -0400	commit: Lesson 16 - Create Tournament Part 2
+d93d6fc92a7d45829b0c31907aeba605367b6aed 2d9552db017f49de9e8e55b45812611c6b066c6c Timothy Corey <me@timothycorey.com> 1490504084 -0400	commit: Lesson 17 - Create Tournament Part 3
+2d9552db017f49de9e8e55b45812611c6b066c6c 07f11e19a24f1702e8a395ac80579d819bcd1901 Timothy Corey <me@timothycorey.com> 1490594347 -0400	commit: Lesson 18 - Create Tournament Part 4
+07f11e19a24f1702e8a395ac80579d819bcd1901 d2085ec54665a6c1ac0f1012b0ceba14c6fa6a7a Timothy Corey <me@timothycorey.com> 1490682696 -0400	commit: Lesson 19 - Create Tournament Part 5
+d2085ec54665a6c1ac0f1012b0ceba14c6fa6a7a ac1d744d3590016a8e6f5b8aa78660410bc70c37 Timothy Corey <me@timothycorey.com> 1490735577 -0400	commit: Lesson 20 - Debugging
+ac1d744d3590016a8e6f5b8aa78660410bc70c37 ef9a96d231ab6aee42c765ff61583a5f1e2c63dc Timothy Corey <me@timothycorey.com> 1490755378 -0400	commit: Lesson 21 - Dashboard Form
+ef9a96d231ab6aee42c765ff61583a5f1e2c63dc 8730fd02a0ecd75ce7d13e674b1624b01817e586 Timothy Corey <me@timothycorey.com> 1490763269 -0400	commit: Lesson 22 - Tournament Viewer Part 1
+8730fd02a0ecd75ce7d13e674b1624b01817e586 b606a19799630eb22be746aa4d287131294f719c Timothy Corey <me@timothycorey.com> 1490851529 -0400	commit: Lesson 23 - Tournament Viewer Part 2
+b606a19799630eb22be746aa4d287131294f719c 5fe9c28f9b58db9e25109e34558b3cf24523b7cd Timothy Corey <me@timothycorey.com> 1490930395 -0400	commit: Lesson 24 - Refactoring
+5fe9c28f9b58db9e25109e34558b3cf24523b7cd 937e47cd45b44154804b2390fd55d15d15887511 Timothy Corey <me@timothycorey.com> 1490932283 -0400	commit: Lesson 25 - Error Handling
+937e47cd45b44154804b2390fd55d15d15887511 d750895b066f5951e98c9db0371ca54e4b1459e9 Timothy Corey <me@timothycorey.com> 1491014561 -0400	commit (amend): Lesson 25 - Error Handling
+d750895b066f5951e98c9db0371ca54e4b1459e9 172e1b9b5121fdea5abeb7eebb1ee359e17d43ca Timothy Corey <me@timothycorey.com> 1491022277 -0400	commit: Lesson 26 - Emailing Users
+172e1b9b5121fdea5abeb7eebb1ee359e17d43ca 07a41518ead870f7d089b034ee776e15ff12dde3 Timothy Corey <me@timothycorey.com> 1491028360 -0400	commit: Lesson 27 - Wrapping Up
+07a41518ead870f7d089b034ee776e15ff12dde3 c9897005774ec2f6b9754d7c5b92b5aa1ab97cec Timothy Corey <me@timothycorey.com> 1491189063 -0400	commit: Lesson 28 - Texting Users
+c9897005774ec2f6b9754d7c5b92b5aa1ab97cec c9897005774ec2f6b9754d7c5b92b5aa1ab97cec Tim <tim@iamtimcorey.com> 1500567161 -0400	checkout: moving from master to MVCUI
+c9897005774ec2f6b9754d7c5b92b5aa1ab97cec 5210cc9c117e14116becc6c526c1cc67c76112f0 Tim <tim@iamtimcorey.com> 1500568915 -0400	commit: After Lesson 1 - Starting MVC
+5210cc9c117e14116becc6c526c1cc67c76112f0 b58e32dcee6328185f238e81513d6b6acbe5ec68 Tim <tim@iamtimcorey.com> 1500581564 -0400	commit: Lesson 3 - Improving the Look
+b58e32dcee6328185f238e81513d6b6acbe5ec68 73df6705d553503d44502dd146262f85aeb15bb8 Tim <tim@iamtimcorey.com> 1500584390 -0400	commit: Lesson 4 - Landing Page
+73df6705d553503d44502dd146262f85aeb15bb8 bbee66968c7a97d7537d8d9f78a321d05f78791a Tim <tim@iamtimcorey.com> 1500590423 -0400	commit: Lesson 5 - Create Person
+bbee66968c7a97d7537d8d9f78a321d05f78791a 0328b2beeb26f93f1927a88400882a716a42d812 Tim <tim@iamtimcorey.com> 1500610679 -0400	commit: Lesson 6 - Create Team
+0328b2beeb26f93f1927a88400882a716a42d812 9c14060f25030b3e9f236c93c5218d104e7524fb Tim <tim@iamtimcorey.com> 1500655092 -0400	commit: Lesson 7 - Create Prizes
+9c14060f25030b3e9f236c93c5218d104e7524fb 480205b14c2cf08d5fc19507e6c7ae32760b6adc Tim <tim@iamtimcorey.com> 1500687323 -0400	commit: Lesson 8 - Create Tournaments
+480205b14c2cf08d5fc19507e6c7ae32760b6adc df38f932cbc17df6153ec3bb9ba6be49cc400cce Tim <tim@iamtimcorey.com> 1500707298 -0400	commit: Lesson 9 - Tournament Viewer
+df38f932cbc17df6153ec3bb9ba6be49cc400cce c9897005774ec2f6b9754d7c5b92b5aa1ab97cec Tim <tim@iamtimcorey.com> 1501546290 -0400	checkout: moving from MVCUI to master
+c9897005774ec2f6b9754d7c5b92b5aa1ab97cec df38f932cbc17df6153ec3bb9ba6be49cc400cce Tim <tim@iamtimcorey.com> 1501546373 -0400	checkout: moving from master to mvcui
+df38f932cbc17df6153ec3bb9ba6be49cc400cce c9897005774ec2f6b9754d7c5b92b5aa1ab97cec Tim <tim@iamtimcorey.com> 1501546385 -0400	checkout: moving from mvcui to master
+c9897005774ec2f6b9754d7c5b92b5aa1ab97cec c9897005774ec2f6b9754d7c5b92b5aa1ab97cec Tim <tim@iamtimcorey.com> 1501546490 -0400	reset: moving to HEAD
+c9897005774ec2f6b9754d7c5b92b5aa1ab97cec df38f932cbc17df6153ec3bb9ba6be49cc400cce Tim <tim@iamtimcorey.com> 1501546493 -0400	checkout: moving from master to mvcui
+df38f932cbc17df6153ec3bb9ba6be49cc400cce c9897005774ec2f6b9754d7c5b92b5aa1ab97cec Tim <tim@iamtimcorey.com> 1501547136 -0400	checkout: moving from mvcui to master
+c9897005774ec2f6b9754d7c5b92b5aa1ab97cec c9897005774ec2f6b9754d7c5b92b5aa1ab97cec Tim <tim@iamtimcorey.com> 1501795220 -0400	checkout: moving from master to WPF
+c9897005774ec2f6b9754d7c5b92b5aa1ab97cec dfa0ed99f7eebb48fbd2d07c088634479cce55b3 Tim <tim@iamtimcorey.com> 1501797236 -0400	commit: Lesson 2 - Initial Setup
+dfa0ed99f7eebb48fbd2d07c088634479cce55b3 741228f6c9c77fce1f86530c5aff56794e7f958a Tim <tim@iamtimcorey.com> 1501870711 -0400	commit: Lesson 3 - Shell Wire-Up
+741228f6c9c77fce1f86530c5aff56794e7f958a fc49b0fc6c25b0a89cf1034290245eb21162ea53 Tim <tim@iamtimcorey.com> 1501875311 -0400	commit: Lesson 4 - Prize Form
+fc49b0fc6c25b0a89cf1034290245eb21162ea53 c236e8fc068fc0778f0e95c4f76324472596371c Tim <tim@iamtimcorey.com> 1501886775 -0400	commit: Lesson 5 - Team Form
+c236e8fc068fc0778f0e95c4f76324472596371c 99a154ffc18f3a610f2b39b136a498a9fa2eb208 Tim <tim@iamtimcorey.com> 1501893067 -0400	commit: Lesson 6 - Person Form
+99a154ffc18f3a610f2b39b136a498a9fa2eb208 547223593448cb223afbece529d892323279ce6c Tim <tim@iamtimcorey.com> 1501900000 -0400	commit: Lesson 7 - Connect the Forms
+547223593448cb223afbece529d892323279ce6c 85457f1d59a8bff6bda03fb94c6dcdcaa36a02dd Tim <tim@iamtimcorey.com> 1501905405 -0400	commit: Lesson 8 - Create Tournament Part 1
+85457f1d59a8bff6bda03fb94c6dcdcaa36a02dd ecbaf3d0a33da1d359a7c94178cfd289a1b49272 Tim <tim@iamtimcorey.com> 1502167001 -0400	commit: Lesson 9 - Create Tournament Part 2
+ecbaf3d0a33da1d359a7c94178cfd289a1b49272 e69eea1e70f053902ab6012c375d5fb9e2a6e15b Tim <tim@iamtimcorey.com> 1502174147 -0400	commit: Lesson 10 - Tournament Viewer
+e69eea1e70f053902ab6012c375d5fb9e2a6e15b df38f932cbc17df6153ec3bb9ba6be49cc400cce Tim <tim@iamtimcorey.com> 1502376518 -0400	checkout: moving from WPF to mvcui
+df38f932cbc17df6153ec3bb9ba6be49cc400cce c9897005774ec2f6b9754d7c5b92b5aa1ab97cec Tim <tim@iamtimcorey.com> 1502376671 -0400	checkout: moving from mvcui to master
+c9897005774ec2f6b9754d7c5b92b5aa1ab97cec df38f932cbc17df6153ec3bb9ba6be49cc400cce Tim <tim@iamtimcorey.com> 1502911695 -0400	checkout: moving from master to MVCUI
+df38f932cbc17df6153ec3bb9ba6be49cc400cce c9897005774ec2f6b9754d7c5b92b5aa1ab97cec Tim <tim@iamtimcorey.com> 1504099241 -0400	checkout: moving from MVCUI to master
+c9897005774ec2f6b9754d7c5b92b5aa1ab97cec c9897005774ec2f6b9754d7c5b92b5aa1ab97cec Tim <tim@iamtimcorey.com> 1519435361 -0500	reset: moving to HEAD
+c9897005774ec2f6b9754d7c5b92b5aa1ab97cec df38f932cbc17df6153ec3bb9ba6be49cc400cce Tim <tim@iamtimcorey.com> 1519435372 -0500	checkout: moving from master to mvcui
+df38f932cbc17df6153ec3bb9ba6be49cc400cce c9897005774ec2f6b9754d7c5b92b5aa1ab97cec Tim <tim@iamtimcorey.com> 1519435403 -0500	checkout: moving from mvcui to master
+c9897005774ec2f6b9754d7c5b92b5aa1ab97cec df38f932cbc17df6153ec3bb9ba6be49cc400cce Tim <tim@iamtimcorey.com> 1519435413 -0500	merge mvcui: Fast-forward
